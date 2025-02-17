@@ -8,5 +8,4 @@
 - **Other**: Redux, Docker, Git, RESTful APIs
 
 ## 📬 Get In Touch
-- **LinkedIn**: [nape-n](https://www.linkedin.com/in/nape-n/)
 - **Twitter**: [@ntsoane_nape](https://twitter.com/ntsoane_nape)
