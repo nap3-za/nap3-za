@@ -9,6 +9,7 @@
 
 ## 📬 Get In Touch
 - **LinkedIn**: [nape-n](https://www.linkedin.com/in/nape-n/)
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="nape-n" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://za.linkedin.com/in/nape-n?trk=profile-badge">Nape N.</a></div>          
 
 - **Twitter**: [@ntsoane_nape](https://twitter.com/ntsoane_nape)
