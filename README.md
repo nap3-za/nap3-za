@@ -10,8 +10,3 @@ Engineer-in-progress with a passion for scalable systems, efficient architecture
 ![Django](https://img.shields.io/badge/Framework-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Django REST](https://img.shields.io/badge/Library-Django%20REST-ff1709?style=flat&logo=django&logoColor=white)
 <!-- ![Linux](https://img.shields.io/badge/System-Linux-FCC624?style=flat&logo=linux&logoColor=000000) -->
-
-### 📫 Connect with Me
-
-- LinkedIn: [@nape-n](https://linkedin.com/in/nape-n)
-- X: [@nape_ntsoane](https://x.com/nape_ntsoane)  
