@@ -14,4 +14,4 @@ Engineer-in-progress with a passion for scalable systems, efficient architecture
 ### 📫 Connect with Me
 
 - LinkedIn: [@nape-n](https://linkedin.com/in/nape-n)
-- X: [@nape_ntsoane](https://linkedin.com/in/nape_ntsoane)  
+- X: [@nape_ntsoane](https://x.com/in/nape_ntsoane)  
