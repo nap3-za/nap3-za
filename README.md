@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Nape
 
+Engineer-in-progress with a passion for scalable systems, efficient architecture and impactful software
+
 ![Python](https://img.shields.io/badge/Code-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
 
