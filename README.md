@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Nape Ntsoane
+# Hi there 👋, I'm Nape
 
 🎓 2nd-Year Computer Science & Computer Engineering Student @ UCT
 💡 Interested in Cloud Technologies, API Development, and 3D Modelling  
