@@ -1,8 +1,5 @@
 # Hi there 👋, I'm Nape
 
-🎓 2nd-Year Computer Science & Computer Engineering Student @ UCT
-💡 Interested in Cloud Technologies, API Development, and 3D Modelling  
-
 ![Python](https://img.shields.io/badge/Code-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
 
