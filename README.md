@@ -12,5 +12,5 @@
 
 ## 📫 Connect with Me
 
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/nape-n)
-- X: [linkedin.com/in/yourprofile](https://linkedin.com/in/nape_ntsoane)  
+- LinkedIn: [@nape-n](https://linkedin.com/in/nape-n)
+- X: [@nape_ntsoane](https://linkedin.com/in/nape_ntsoane)  
