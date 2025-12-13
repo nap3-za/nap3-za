@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Nape
+# Hi there 👋
 
 Engineer-in-progress with a passion for scalable systems, efficient architecture and impactful software
 
